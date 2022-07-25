@@ -1,7 +1,6 @@
 ### Olá eu sou a Inara 👋
 # Salve Turma
 
-<!--
 **inaraDev/inaraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Olá eu sou a Inara
@@ -14,4 +13,3 @@ Olá eu sou a Inara
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
